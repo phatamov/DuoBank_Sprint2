@@ -1,0 +1,10 @@
+#ignored files and folders
+.DS_Store
+*.iml
+/.idea/
+/out/
+/bin/
+/test-output/
+#to remove unwanted folders or files retroactively  -> git rm -r --cached <folder or file name>
+# Project exclude paths
+/target/
